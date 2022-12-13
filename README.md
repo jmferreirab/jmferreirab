@@ -1,4 +1,4 @@
-## Fullstack software developer and game dev. 👋
+## Fullstack software developer. 👋
 
 
 ```ts
