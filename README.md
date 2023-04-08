@@ -13,7 +13,6 @@ let profile = {
 ```
 
 
-
 <!-- [<img src ='https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black'>](https://) -->
 
 ## Core tools:
@@ -37,6 +36,10 @@ let profile = {
 ## Contact:
 [<img height=24px src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=1a1e23'>](https://www.linkedin.com/in/ferreiradevs)
 [<img height=24px src='https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=1a1e23'>](https://github.com/jmferreirab)
+
+## Badges:
+
+[<img height=24px src='https://www.codewars.com/users/jmferreirab/badges/large'>]( )
 
 <!--
 - 🔭 I’m currently working on ...
