@@ -3,10 +3,10 @@
 
 ```ts
 let profile = {
-      technologies: ['Python', 'Django','SQL Server', '.NET', 'Git', 'HTML', 'CSS', 'Unity3D'],
+      technologies: ['Python', 'Django','SQL Server', 'Azure', 'AWS', 'Git', 'HTML', 'CSS', 'Unity3D'],
       coding_since: 2015,
       interests: ['Machine Learning', 'Data Analytics', 'Game dev'],
-      status: 'Learning new technologies',
+      status: 'Always learning new technologies',
       name: 'Manuel Ferreira',
       goals: 'Stay healthy and keep coding!'
 }
