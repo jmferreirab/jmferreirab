@@ -28,6 +28,8 @@ let profile = {
 [<img height=24px src='https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white&style=for-the-badge&color=1a1e23'>]( )
 [<img height=24px src='https://img.shields.io/badge/opencv-%23white.svg?logo=opencv&logoColor=white&style=for-the-badge&color=1a1e23'>]( )
 [<img height=24px src='https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&logoColor=white&style=for-the-badge&color=1a1e23'>]( )
+[<img height=24px src='https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge&color=1a1e23'>]( )
+
 
 [<img height=24px src='https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white&color=1a1e23'>](https://unity3d.com/)
 [<img height=24px src='https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=1a1e23'>](https://code.visualstudio.com/)
